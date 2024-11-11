@@ -1,0 +1,26 @@
+body {
+    background-size: cover!important;
+    background-repeat: no-repeat!important;
+    background: url(https://aicontentfy.com/hubfs/Blog/e2f82ed6-4180-4648-9560-949a48793661.jpg)
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 28vh;
+}
+#google-logo{
+    width: 13vw;
+}
+#searchBar {
+    /* margin-left: 9%; */
+    font-size: 70%;
+    margin-top: 4%;
+    text-align: center;
+    border: none;
+    color: black;
+    border-radius: 13px;
+    background: #e7e7e7;
+    width: 18vw !important;
+}
